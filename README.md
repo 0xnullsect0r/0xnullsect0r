@@ -9,22 +9,26 @@
 ## 📙 Top of my open source projects
 
 <p>
-  <a href="https://github.com/Jobrythm/jobrythm.io"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm.io&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/Jobrythm/jobrythm-fullstack"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm-fullstack&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/ariplayz/Drive-By"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ariplayz&repo=Drive-By&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/ariplayz/RustKeyLogger"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ariplayz&repo=RustKeyLogger&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/ariplayz/UDTool"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ariplayz&repo=UDTool&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/ariplayz/KeyLogger"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ariplayz&repo=KeyLogger&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm.io&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm-fullstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm-fullstack&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm-frontend&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm-backend&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/0xnullsect0r/Drive-By"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=Drive-By&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/0xnullsect0r/msfamdisable"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=msfamdisable&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/0xnullsect0r/dotnetCalculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=dotnetCalculator&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/0xnullsect0r/BasicAPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=BasicAPI&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/0xnullsect0r/StaffPoints"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=StaffPoints&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/0xnullsect0r/Heron-Dictionary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=Heron-Dictionary&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
 </p>
 
 <p>
-  <a href="https://github.com/ariplayz?tab=repositories"><img src="https://shields.io/badge/-All%20my%20Repos-2d3d3a?style=for-the-badge"></a>
+  <a href="https://github.com/0xnullsect0r?tab=repositories"><img src="https://shields.io/badge/-All%20my%20Repos-2d3d3a?style=for-the-badge"></a>
 </p>
 
 ## 🔥 Streak stats
 
 <p>
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=ariplayz&theme=default&hide_border=true&background=2d3d3a&stroke=3dd6ac&ring=3dd6ac&fire=3dd6ac&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=3dd6ac"></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xnullsect0r&theme=default&hide_border=true&background=2d3d3a&stroke=3dd6ac&ring=3dd6ac&fire=3dd6ac&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=3dd6ac"></a>
 </p>
 
 ## 🛠️ My favorite tools
@@ -32,11 +36,11 @@
 ### My used programming and scripting languages
 
 <p>
-  <a href="https://github.com/search?q=user%3Aariplayz+Rust"><img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%3Aariplayz+C%23"><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%3Aariplayz+TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%3Aariplayz+Python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%3Aariplayz+Bash"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3A0xnullsect0r+Rust"><img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3A0xnullsect0r+C%23"><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3A0xnullsect0r+TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3A0xnullsect0r+Python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3A0xnullsect0r+Bash"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ### My used frameworks and libraries
@@ -72,13 +76,11 @@
 ## 📊 My GitHub stats
 
 <p>
-  <img src="https://raw.githubusercontent.com/ariplayz/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark">
-  <img src="https://raw.githubusercontent.com/ariplayz/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xnullsect0r&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=true" alt="GitHub Stats">
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/ariplayz/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Dark">
-  <img src="https://raw.githubusercontent.com/ariplayz/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages Light">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnullsect0r&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&layout=compact" alt="Top Languages">
 </p>
 
 ---
