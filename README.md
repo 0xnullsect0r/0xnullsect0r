@@ -9,12 +9,12 @@
 ## 📙 Top of my open source projects
 
 <p>
-  <a href="https://github.com/Jobrythm/jobrythm.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm.io&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/Jobrythm/jobrythm-fullstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm-fullstack&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/0xnullsect0r/Drive-By"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=Drive-By&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/0xnullsect0r/RustKeyLogger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=RustKeyLogger&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/0xnullsect0r/UDTool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=UDTool&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
-  <a href="https://github.com/0xnullsect0r/KeyLogger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=KeyLogger&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm.io"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm.io&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm-fullstack"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm-fullstack&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/0xnullsect0r/Drive-By"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=Drive-By&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/0xnullsect0r/RustKeyLogger"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=RustKeyLogger&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/0xnullsect0r/UDTool"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=UDTool&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/0xnullsect0r/KeyLogger"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=KeyLogger&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
 </p>
 
 <p>
@@ -72,11 +72,11 @@
 ## 📊 My GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=0xnullsect0r&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=true" alt="GitHub Stats">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=0xnullsect0r&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=true" alt="GitHub Stats">
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnullsect0r&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&layout=compact" alt="Top Languages">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xnullsect0r&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&layout=compact" alt="Top Languages">
 </p>
 
 ---
