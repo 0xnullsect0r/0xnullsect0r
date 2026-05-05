@@ -6,6 +6,22 @@
   <a><img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20DEVELOPER;PENTESTER;WHAT%20THE%20HELL%20IS%20IPV6;C%2B%2B%20%26%20RUST%20ENTHUSIAST&font=sans-serif&center=true&width=400&height=45&color=3dd6ac&vCenter=true&size=22"></a>
 </p>
 
+## 🔥 Streak stats
+
+<p>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xnullsect0r&theme=default&hide_border=true&background=2d3d3a&stroke=3dd6ac&ring=3dd6ac&fire=3dd6ac&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=3dd6ac"></a>
+</p>
+
+## 📊 My GitHub stats
+
+<p>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=0xnullsect0r&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=true" alt="GitHub Stats">
+</p>
+
+<p>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xnullsect0r&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&layout=compact" alt="Top Languages">
+</p>
+
 ## 📙 Top of my open source projects
 
 <p>
@@ -19,12 +35,6 @@
 
 <p>
   <a href="https://github.com/0xnullsect0r?tab=repositories"><img src="https://shields.io/badge/-All%20my%20Repos-2d3d3a?style=for-the-badge"></a>
-</p>
-
-## 🔥 Streak stats
-
-<p>
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=0xnullsect0r&theme=default&hide_border=true&background=2d3d3a&stroke=3dd6ac&ring=3dd6ac&fire=3dd6ac&currStreakNum=white&sideNums=white&currStreakLabel=white&sideLabels=white&dates=3dd6ac"></a>
 </p>
 
 ## 🛠️ My favorite tools
@@ -69,15 +79,7 @@
   <a><img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge"></a>
 </p>
 
-## 📊 My GitHub stats
 
-<p>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=0xnullsect0r&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=true" alt="GitHub Stats">
-</p>
-
-<p>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xnullsect0r&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&layout=compact" alt="Top Languages">
-</p>
 
 ---
 
