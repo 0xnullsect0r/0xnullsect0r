@@ -9,6 +9,10 @@
 ## 📙 Top of my open source projects
 
 <p>
+  <a href="https://github.com/Jobrythm/jobrythm.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm.io&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm-fullstack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm-fullstack&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm-frontend&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/Jobrythm/jobrythm-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jobrythm&repo=jobrythm-backend&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/0xnullsect0r/Drive-By"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=Drive-By&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/0xnullsect0r/msfamdisable"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=msfamdisable&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/0xnullsect0r/dotnetCalculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnullsect0r&repo=dotnetCalculator&theme=react&bg_color=2d3d3a&title_color=3dd6ac&icon_color=3dd6ac&hide_border=true&show_icons=false"></a>
